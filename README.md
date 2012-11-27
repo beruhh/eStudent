@@ -1,4 +1,4 @@
 ethio-foss
 ==========
 
-Free software development projects from Ethiopia
+The first real Free software project from Ethiopia
